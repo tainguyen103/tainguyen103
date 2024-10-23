@@ -6,7 +6,7 @@ I'm **Tai**, a passionate **Business Intelligence Analyst** with a strong founda
 
 ### 🎓 Background:
 - Double major in **Economics** and **Data Analytics**.
-- Current **Resident Assistant (RA)** at [Dickinson College].
+- Current **Resident Advisor (RA)** at Dickinson College.
 
 ### 🛠 Skills:
 - **Business Intelligence** | **Data Engineering** | **Data Visualization** | **ETL** | **Reporting** | **Dashboards**.
@@ -24,7 +24,6 @@ I'm **Tai**, a passionate **Business Intelligence Analyst** with a strong founda
 
 ### 🌍 Future Goals:
 - Continuously evolving my expertise in **Business Intelligence** and **Data Engineering**.
-- Preparing for **Amazon entry-level roles** (Business Intelligence Engineer, L4).
 
 ### 🧠 Fun Fact:
 - I've been learning **French** for 2 years and plan to combine my passion for tech with global opportunities.

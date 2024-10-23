@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**tainguyen103/tainguyen103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My GitHub!
 
-Here are some ideas to get you started:
+I'm **Tai**, a passionate **Business Intelligence Analyst** with a strong foundation in data analysis, reporting, and automation. With experience in **SQL**, **Python**, **R**, and **Tableau**, I thrive at turning complex data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Background:
+- Double major in **Economics** and **Data Analytics**.
+- Current **Resident Assistant (RA)** at [Dickinson College].
+
+### 🛠 Skills:
+- **Business Intelligence** | **Data Engineering** | **Data Visualization** | **ETL** | **Reporting** | **Dashboards**.
+
+### 📊 Tech Stack:
+- SQL | Python | R | Tableau | AWS (seeking certification in BI/Data Engineering).
+
+### 🚀 Projects:
+- Developing **data pipelines** and creating **interactive dashboards** that inform decision-making.
+- Worked on projects like a **Web3 database** and dashboards for **underrepresented student populations**.
+
+### 🏆 Achievements:
+- Successfully deployed websites and business intelligence solutions.
+- Completed a comprehensive project strategy and pipeline system during my **Business Intelligence** course.
+
+### 🌍 Future Goals:
+- Continuously evolving my expertise in **Business Intelligence** and **Data Engineering**.
+- Preparing for **Amazon entry-level roles** (Business Intelligence Engineer, L4).
+
+### 🧠 Fun Fact:
+- I've been learning **French** for 2 years and plan to combine my passion for tech with global opportunities.
+
+---
+
+Feel free to connect and discuss how data-driven insights can shape the future!

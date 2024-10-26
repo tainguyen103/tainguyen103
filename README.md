@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub!
 
-I'm **Tai**, a passionate **Business Intelligence Analyst** with a strong foundation in data analysis, reporting, and automation. With experience in **SQL**, **Python**, **R**, and **Tableau**, I thrive at turning complex data into actionable insights.
+I'm **Tai**, an aspiring **Business Intelligence Professional** with a strong foundation in data analysis, reporting, and automation. With experience in **SQL**, **Python**, **R**, and **Tableau**, I thrive at turning complex data into actionable insights.
 
 ### 🎓 Background:
 - Double major in **Economics** and **Data Analytics**.
